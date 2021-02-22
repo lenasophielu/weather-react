@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+import Weather from "./Weather";
+import Search from "./Search";
+import DateCity from "./DateCity";
+
 function App() {
   return (
     <div className="App">
