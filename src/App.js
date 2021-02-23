@@ -7,13 +7,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="AppHeader">
 <Search />
 <DateCity />
 <Weather />
 
+<footer> <a href="https://github.com/lenasophielu/weather-react"> Open source code </a> by Lena Lumplecker</footer>
 
-      </header>
     </div>
   );
 }

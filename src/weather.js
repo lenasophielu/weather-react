@@ -1,7 +1,4 @@
 import React from "react";
-import "./Weather";
-
-
 
 export default function Weather() {
   return (
