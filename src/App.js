@@ -1,5 +1,7 @@
 import React from 'react'
 import Weather from "./Weather";
+import Search from "./Search";
+import DateCity from "./DateCity";
 import './App.css';
 
 function App() {
